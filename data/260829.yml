@@ -1,0 +1,64 @@
+about:
+  description: 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+  license: Apache-2.0
+  homepage: https://rustfs.com/download/
+  head: af6c229
+  archived: false
+  latestVersion: 1.0.0-rc.4
+  collectedAt: 2026-08-29T07:22:45Z
+timeline:
+  created: 2023-11-23
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-28
+popularity:
+  star: 31514
+  watcher: 86
+  fork: 1410
+  release: 118
+  contributor: 174
+  pullRequest: 276
+  issue: 1679
+language:
+  Rust: 48766412
+  Shell: 1797381
+  Python: 588918
+  Makefile: 27392
+  Go Template: 14237
+  Just: 9315
+  PowerShell: 7681
+  Dockerfile: 6510
+  Nix: 6011
+totalLine: 51223857
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 6
+    mergedPR: 1089
+    openPR: 12
+    closedIssue: 163
+    openIssue: 36
+    commit: 1067
+  last90d:
+    since: 2026-05-31
+    release: 14
+    mergedPR: 3072
+    openPR: 12
+    closedIssue: 425
+    openIssue: 39
+    commit: 2931
+  last180d:
+    since: 2026-03-02
+    release: 35
+    mergedPR: 3734
+    openPR: 12
+    closedIssue: 780
+    openIssue: 41
+    commit: 3578
+  last360d:
+    since: 2025-09-03
+    release: 70
+    mergedPR: 4375
+    openPR: 12
+    closedIssue: 1439
+    openIssue: 43
+    commit: 4220
