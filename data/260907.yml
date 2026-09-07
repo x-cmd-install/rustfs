@@ -2,107 +2,107 @@ about:
   description: "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
   license: Apache-2.0
   homepage: https://rustfs.com/download/
-  head: 4c4dcb6
+  head: 7c85c72
   archived: false
   latestVersion: "1.0.0-rc.5"
-  collectedAt: 2026-09-07T04:26:04Z
+  collectedAt: 2026-09-07T20:00:52Z
 timeline:
   created: 2023-11-23
   lastCommit: 2026-09-07
   lastRelease: 2026-09-02
 popularity:
-  star: 31795
+  star: 31830
   watcher: 90
-  fork: 1420
+  fork: 1422
   release: 119
   contributor: 175
-  pullRequest: 5267
-  issue: 1753
+  pullRequest: 5344
+  issue: 1763
 language:
-  Rust: 57132257
-  Shell: 1839031
-  Python: 779526
-  Makefile: 28106
+  Rust: 57775384
+  Shell: 1847038
+  Python: 796698
+  Makefile: 28163
   Go Template: 14237
   Nix: 13895
   Just: 9315
   PowerShell: 7681
   Dockerfile: 6510
-totalBytes: 59830558
+totalBytes: 60498921
 recent:
   last30d:
     since: 2026-08-08
     release: 6
-    mergedPR: 1194
-    openPR: 9
-    closedIssue: 201
-    openIssue: 19
-    commit: 1005
+    mergedPR: 1263
+    openPR: 18
+    closedIssue: 215
+    openIssue: 15
+    commit: 1058
   last60d:
     since: 2026-07-09
     release: 13
-    mergedPR: 2182
-    openPR: 9
-    closedIssue: 396
-    openIssue: 20
-    commit: 1977
+    mergedPR: 2251
+    openPR: 18
+    closedIssue: 410
+    openIssue: 16
+    commit: 2030
   last90d:
     since: 2026-06-09
     release: 14
-    mergedPR: 3366
-    openPR: 9
-    closedIssue: 486
-    openIssue: 20
-    commit: 3095
+    mergedPR: 3435
+    openPR: 18
+    closedIssue: 500
+    openIssue: 16
+    commit: 3148
   last180d:
     since: 2026-03-11
     release: 35
-    mergedPR: 4105
-    openPR: 9
-    closedIssue: 835
-    openIssue: 24
-    commit: 3915
+    mergedPR: 4174
+    openPR: 18
+    closedIssue: 849
+    openIssue: 20
+    commit: 3968
   last360d:
     since: 2025-09-12
     release: 68
-    mergedPR: 4775
-    openPR: 9
-    closedIssue: 1517
-    openIssue: 25
-    commit: 4597
+    mergedPR: 4844
+    openPR: 18
+    closedIssue: 1531
+    openIssue: 21
+    commit: 4650
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 4977
-    openPR: 9
-    closedIssue: 1728
-    openIssue: 25
-    commit: 6295
+    mergedPR: 5046
+    openPR: 18
+    closedIssue: 1742
+    openIssue: 21
+    commit: 6348
 total:
   release: 119
-  mergedPR: 4977
-  openPR: 9
-  closedIssue: 1728
-  openIssue: 25
-  commit: 6482
+  mergedPR: 5046
+  openPR: 18
+  closedIssue: 1742
+  openIssue: 21
+  commit: 6535
 ---
 path: /home/runner/.x-repo/github.com/rustfs/rustfs
-collectedAt: 2026-09-07T04:26:20Z
+collectedAt: 2026-09-07T20:01:12Z
 loc:
   Rust:
-    code: 1169179
-    comments: 53001
-    blanks: 127487
-    files: 1786
+    code: 1182402
+    comments: 53253
+    blanks: 128354
+    files: 1789
   Sh:
-    code: 40063
-    comments: 2540
-    blanks: 5133
-    files: 145
+    code: 40281
+    comments: 2541
+    blanks: 5160
+    files: 146
   Python:
-    code: 15205
+    code: 15485
     comments: 194
-    blanks: 1842
+    blanks: 1868
     files: 35
   Json:
     code: 9211
@@ -110,7 +110,7 @@ loc:
     blanks: 0
     files: 59
   Toml:
-    code: 3781
+    code: 3783
     comments: 928
     blanks: 383
     files: 59
@@ -171,24 +171,24 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 13921
-    blanks: 5336
-    files: 184
+    comments: 14012
+    blanks: 5399
+    files: 186
   Text:
     code: 0
-    comments: 1187
+    comments: 1186
     blanks: 41
     files: 28
 total:
-  code: 1243900
-  comments: 118496
-  blanks: 145929
-  files: 2347
+  code: 1257626
+  comments: 119179
+  blanks: 146921
+  files: 2353
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:26:22+00:00
+  collectedAt: 2026-09-07T20:01:14+00:00
   platform:
     darwin/arm64:
       name:  null
