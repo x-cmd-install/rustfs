@@ -1,0 +1,188 @@
+about:
+  description: "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
+  license: Apache-2.0
+  homepage: https://rustfs.com/download/
+  head: 3adfe65
+  archived: false
+  latestVersion: "1.0.0-rc.5"
+  collectedAt: 2026-09-08T01:37:05Z
+timeline:
+  created: 2023-11-23
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-02
+popularity:
+  star: 31830
+  watcher: 90
+  fork: 1422
+  release: 119
+  contributor: 175
+  pullRequest: 5354
+  issue: 1763
+language:
+  Rust: 58074218
+  Shell: 1847273
+  Python: 831158
+  Makefile: 28163
+  Go Template: 14237
+  Nix: 13895
+  Just: 9315
+  PowerShell: 7681
+  Dockerfile: 6510
+totalBytes: 60832450
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 5
+    mergedPR: 1261
+    openPR: 0
+    closedIssue: 213
+    openIssue: 13
+    commit: 1075
+  last60d:
+    since: 2026-07-10
+    release: 13
+    mergedPR: 2223
+    openPR: 0
+    closedIssue: 402
+    openIssue: 15
+    commit: 2047
+  last90d:
+    since: 2026-06-10
+    release: 14
+    mergedPR: 3446
+    openPR: 0
+    closedIssue: 498
+    openIssue: 15
+    commit: 3165
+  last180d:
+    since: 2026-03-12
+    release: 35
+    mergedPR: 4194
+    openPR: 0
+    closedIssue: 847
+    openIssue: 19
+    commit: 3985
+  last360d:
+    since: 2025-09-13
+    release: 67
+    mergedPR: 4865
+    openPR: 0
+    closedIssue: 1531
+    openIssue: 20
+    commit: 4667
+  last720d:
+    since: 2024-09-18
+    release: 100
+    mergedPR: 5073
+    openPR: 0
+    closedIssue: 1743
+    openIssue: 20
+    commit: 6365
+total:
+  release: 119
+  mergedPR: 5073
+  openPR: 0
+  closedIssue: 1743
+  openIssue: 20
+  commit: 6552
+---
+path: /home/runner/.x-repo/github.com/rustfs/rustfs
+collectedAt: 2026-09-08T01:37:26Z
+loc:
+  Rust:
+    code: 1188469
+    comments: 53367
+    blanks: 128653
+    files: 1789
+  Sh:
+    code: 40287
+    comments: 2541
+    blanks: 5161
+    files: 146
+  Python:
+    code: 16141
+    comments: 196
+    blanks: 1948
+    files: 37
+  Json:
+    code: 9211
+    comments: 0
+    blanks: 0
+    files: 59
+  Toml:
+    code: 3787
+    comments: 929
+    blanks: 384
+    files: 59
+  Yaml:
+    code: 2027
+    comments: 257
+    blanks: 73
+    files: 30
+  Protobuf:
+    code: 1009
+    comments: 78
+    blanks: 205
+    files: 1
+  Nix:
+    code: 374
+    comments: 42
+    blanks: 56
+    files: 3
+  Pan:
+    code: 359
+    comments: 0
+    blanks: 28
+    files: 1
+  Go:
+    code: 162
+    comments: 16
+    blanks: 15
+    files: 1
+  Dockerfile:
+    code: 103
+    comments: 31
+    blanks: 19
+    files: 2
+  RPMSpecfile:
+    code: 86
+    comments: 3
+    blanks: 27
+    files: 1
+  PowerShell:
+    code: 59
+    comments: 102
+    blanks: 39
+    files: 1
+  Makefile:
+    code: 54
+    comments: 16
+    blanks: 18
+    files: 1
+  Hex:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 9
+  FlatBuffers:
+    code: 4
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 14065
+    blanks: 5409
+    files: 186
+  Text:
+    code: 0
+    comments: 1186
+    blanks: 41
+    files: 28
+total:
+  code: 1264364
+  comments: 119452
+  blanks: 147318
+  files: 2355
+---
+
