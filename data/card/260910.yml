@@ -7,7 +7,7 @@ about:
   latestVersion: "1.0.0-rc.6-preview.1"
   latestRelease: ""
   latestPrerelease: "1.0.0-rc.6-preview.1"
-  collectedAt: 2026-09-10T20:10:09Z
+  collectedAt: 2026-09-10T23:33:23Z
 timeline:
   created: 2023-11-23
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 
   lastPrerelease: 2026-09-10
 popularity:
-  star: 31939
+  star: 31943
   watcher: 90
-  fork: 1432
+  fork: 1433
   release: 120
   contributor: 175
-  pullRequest: 5538
+  pullRequest: 5539
   issue: 1780
 language:
   Rust: 59528965
@@ -38,7 +38,7 @@ recent:
     since: 2026-08-11
     release: 6
     mergedPR: 1405
-    openPR: 4
+    openPR: 5
     closedIssue: 201
     openIssue: 17
     commit: 1104
@@ -46,7 +46,7 @@ recent:
     since: 2026-07-12
     release: 14
     mergedPR: 2327
-    openPR: 4
+    openPR: 5
     closedIssue: 407
     openIssue: 19
     commit: 2076
@@ -54,7 +54,7 @@ recent:
     since: 2026-06-12
     release: 14
     mergedPR: 3568
-    openPR: 4
+    openPR: 5
     closedIssue: 505
     openIssue: 19
     commit: 3194
@@ -62,7 +62,7 @@ recent:
     since: 2026-03-14
     release: 36
     mergedPR: 4363
-    openPR: 4
+    openPR: 5
     closedIssue: 855
     openIssue: 23
     commit: 4014
@@ -70,7 +70,7 @@ recent:
     since: 2025-09-15
     release: 65
     mergedPR: 5039
-    openPR: 4
+    openPR: 5
     closedIssue: 1536
     openIssue: 24
     commit: 4696
@@ -78,20 +78,20 @@ recent:
     since: 2024-09-20
     release: 100
     mergedPR: 5249
-    openPR: 4
+    openPR: 5
     closedIssue: 1756
     openIssue: 24
     commit: 6385
 total:
   release: 120
   mergedPR: 5249
-  openPR: 4
+  openPR: 5
   closedIssue: 1756
   openIssue: 24
   commit: 6581
 ---
 path: /home/runner/.x-repo/github.com/rustfs/rustfs
-collectedAt: 2026-09-10T20:10:29Z
+collectedAt: 2026-09-10T23:33:39Z
 loc:
   Rust:
     code: 1218440
