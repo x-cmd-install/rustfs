@@ -14,11 +14,11 @@ x install rustfs
 
 ## Code insight
 
-Total: **1,304,428** lines of code across **2130** files in the top 5 languages.
+Total: **1,304,466** lines of code across **2130** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,218,440 | 53,978 | 130,293 | 1802 |
+| Rust | 1,218,478 | 53,980 | 130,298 | 1802 |
 | Sh | 42,370 | 2,551 | 5,391 | 161 |
 | Python | 26,367 | 212 | 2,659 | 49 |
 | Json | 9,211 | 0 | 0 | 59 |
@@ -37,22 +37,22 @@ Total: **1,304,428** lines of code across **2130** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31,943 · **Forks**: 1,433 · **Open issues**: 1,780 · **Contributors**: 175
+- **Stars**: 31,952 · **Forks**: 1,434 · **Open issues**: 1,780 · **Contributors**: 175
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 5249 · **Open PRs**: 5 · **Closed issues**: 1756 · **Open issues**: 24 · **Commits**: 6581
+- **Releases**: 120 · **Merged PRs**: 5251 · **Open PRs**: 3 · **Closed issues**: 1757 · **Open issues**: 23 · **Commits**: 6582
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 6 | 1405 | 5 | 201 | 17 | 1104 |
-| last60d | 2026-07-12 | 14 | 2327 | 5 | 407 | 19 | 2076 |
-| 90d | 2026-06-12 | 14 | 3568 | 5 | 505 | 19 | 3194 |
-| last180d | 2026-03-14 | 36 | 4363 | 5 | 855 | 23 | 4014 |
-| 360d | 2025-09-15 | 65 | 5039 | 5 | 1536 | 24 | 4696 |
-| last720d | 2024-09-20 | 100 | 5249 | 5 | 1756 | 24 | 6385 |
+| 30d | 2026-08-12 | 6 | 1326 | 3 | 196 | 16 | 1105 |
+| last60d | 2026-07-13 | 14 | 2321 | 3 | 405 | 18 | 2077 |
+| 90d | 2026-06-13 | 14 | 3551 | 3 | 500 | 18 | 3195 |
+| last180d | 2026-03-15 | 36 | 4360 | 3 | 854 | 22 | 4015 |
+| 360d | 2025-09-16 | 65 | 5039 | 3 | 1535 | 23 | 4697 |
+| last720d | 2024-09-21 | 100 | 5251 | 3 | 1757 | 23 | 6379 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for rustfs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:33:44Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:28:50Z._
