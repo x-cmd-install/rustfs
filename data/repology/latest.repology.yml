@@ -19,7 +19,7 @@
   binname: rustfs
   visiblename: rustfs
   version: 1.0.0_rc5
-  origversion: 1.0.0_rc.5-1
+  origversion: 1.0.0_rc.5-2
   status: devel
   summary: High-performance distributed object storage for MinIO alternative.
   maintainers:
