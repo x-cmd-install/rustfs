@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
 ![rustfs](https://repo.x-cmd.io/rustfs.svg?lang=zh)
 
@@ -14,13 +14,13 @@ x install rustfs
 
 ## 代码洞察
 
-合计: **1,383,266** 行代码（覆盖前 5 种语言、共 **2258** 个文件）。
+合计: **1,386,456** 行代码（覆盖前 5 种语言、共 **2259** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,291,096 | 55,885 | 135,025 | 1898 |
-| Sh | 42,915 | 2,590 | 5,445 | 163 |
-| Python | 28,571 | 279 | 2,943 | 63 |
+| Rust | 1,293,828 | 55,956 | 135,248 | 1898 |
+| Sh | 43,236 | 2,591 | 5,496 | 164 |
+| Python | 28,702 | 280 | 2,957 | 63 |
 | Json | 12,590 | 0 | 0 | 75 |
 | Toml | 3,809 | 930 | 386 | 59 |
 
@@ -32,28 +32,28 @@ x install rustfs
 
 ## 发布
 
-- **最新版本**: `1.0.1-preview.1` (2026-09-16)
-- **最近提交**: 2026-09-17
+- **最新版本**: `1.0.1-preview.5` (2026-09-16)
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 32,671 · **Fork**: 1,456 · **开放 issue**: 1,820 · **贡献者**: 176
+- **Star**: 32,816 · **Fork**: 1,471 · **开放 issue**: 1,837 · **贡献者**: 177
 
 ## 累计统计
 
-- **发布数**: 122 · **已合并 PR**: 5503 · **开放 PR**: 6 · **已关闭 issue**: 1805 · **开放 issue**: 15 · **提交数**: 6740
+- **发布数**: 124 · **已合并 PR**: 5521 · **开放 PR**: 7 · **已关闭 issue**: 1814 · **开放 issue**: 23 · **提交数**: 6757
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 6 | 1435 | 6 | 220 | 8 | 1064 |
-| last60d | 2026-07-19 | 11 | 2403 | 6 | 389 | 12 | 2039 |
-| 90d | 2026-06-19 | 16 | 3625 | 6 | 516 | 12 | 3167 |
-| last180d | 2026-03-21 | 34 | 4578 | 6 | 864 | 14 | 4133 |
-| 360d | 2025-09-22 | 64 | 5282 | 6 | 1571 | 15 | 4842 |
-| last720d | 2024-09-27 | 100 | 5503 | 6 | 1805 | 15 | 6477 |
+| 30d | 2026-08-19 | 8 | 1401 | 7 | 224 | 16 | 1081 |
+| last60d | 2026-07-20 | 13 | 2404 | 7 | 392 | 20 | 2056 |
+| 90d | 2026-06-20 | 18 | 3611 | 7 | 524 | 20 | 3184 |
+| last180d | 2026-03-22 | 36 | 4591 | 7 | 873 | 22 | 4150 |
+| 360d | 2025-09-23 | 66 | 5299 | 7 | 1578 | 23 | 4859 |
+| last720d | 2024-09-28 | 100 | 5521 | 7 | 1814 | 23 | 6483 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ rustfs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260917.yml` · 2026-09-17T04:58:22Z._
+_数据快照: `data/card/260918.yml` · 2026-09-18T04:34:57Z._
