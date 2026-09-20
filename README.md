@@ -4,7 +4,7 @@
 
 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
-![rustfs](https://repo.x-cmd.io/rustfs.svg)
+[![x-cmd/install — rustfs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rustfs.svg)](https://x-cmd.com/install/rustfs)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install rustfs
 
 ## Code insight
 
-Total: **1,386,456** lines of code across **2259** files in the top 5 languages.
+Total: **1,388,365** lines of code across **2261** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,293,828 | 55,956 | 135,248 | 1898 |
-| Sh | 43,236 | 2,591 | 5,496 | 164 |
-| Python | 28,702 | 280 | 2,957 | 63 |
+| Rust | 1,295,519 | 56,027 | 135,364 | 1898 |
+| Sh | 43,441 | 2,623 | 5,515 | 166 |
+| Python | 28,715 | 287 | 2,957 | 63 |
 | Json | 12,590 | 0 | 0 | 75 |
 | Toml | 3,809 | 930 | 386 | 59 |
 
@@ -32,28 +32,28 @@ Total: **1,386,456** lines of code across **2259** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.0.1-preview.5` (2026-09-16)
-- **Last commit**: 2026-09-18
+- **Latest**: `1.0.1-preview.7` (2026-09-16)
+- **Last commit**: 2026-09-20
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 32,816 · **Forks**: 1,471 · **Open issues**: 1,837 · **Contributors**: 177
+- **Stars**: 33,388 · **Forks**: 1,497 · **Open issues**: 1,851 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 124 · **Merged PRs**: 5521 · **Open PRs**: 7 · **Closed issues**: 1814 · **Open issues**: 23 · **Commits**: 6757
+- **Releases**: 126 · **Merged PRs**: 5539 · **Open PRs**: 5 · **Closed issues**: 1829 · **Open issues**: 22 · **Commits**: 6775
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 8 | 1401 | 7 | 224 | 16 | 1081 |
-| last60d | 2026-07-20 | 13 | 2404 | 7 | 392 | 20 | 2056 |
-| 90d | 2026-06-20 | 18 | 3611 | 7 | 524 | 20 | 3184 |
-| last180d | 2026-03-22 | 36 | 4591 | 7 | 873 | 22 | 4150 |
-| 360d | 2025-09-23 | 66 | 5299 | 7 | 1578 | 23 | 4859 |
-| last720d | 2024-09-28 | 100 | 5521 | 7 | 1814 | 23 | 6483 |
+| 30d | 2026-08-21 | 10 | 1362 | 5 | 229 | 15 | 0 |
+| last60d | 2026-07-22 | 15 | 2360 | 5 | 395 | 18 | 0 |
+| 90d | 2026-06-22 | 20 | 3538 | 5 | 538 | 19 | 0 |
+| last180d | 2026-03-24 | 38 | 4595 | 5 | 877 | 21 | 0 |
+| 360d | 2025-09-25 | 68 | 5314 | 5 | 1591 | 22 | 0 |
+| last720d | 2024-09-30 | 100 | 5539 | 5 | 1829 | 22 | 6499 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rustfs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:34:56Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:47:37Z._
