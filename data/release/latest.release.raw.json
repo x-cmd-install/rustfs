@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3204,
       "digest": "sha256:2d6e85179f95e13e9e9649d98b0f2d0e4dced86263a64c85b677de2972ee6c4c",
-      "download_count": 81,
+      "download_count": 176,
       "created_at": "2026-10-17T15:48:05Z",
       "updated_at": "2026-10-17T15:48:05Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-1.0.3.provenance.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 344785,
       "digest": "sha256:bdc0d126a436f65fb9e5b223580009a6e5da448977f01fb1452da95993738599",
-      "download_count": 72,
+      "download_count": 173,
       "created_at": "2026-10-17T15:48:06Z",
       "updated_at": "2026-10-17T15:48:06Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-1.0.3.sbom.cdx.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 111537770,
       "digest": "sha256:1c667c8b138fae0ba41786709af49c0b99107f037428d36c8a43ba0627b2408b",
-      "download_count": 46,
+      "download_count": 48,
       "created_at": "2026-10-17T15:48:07Z",
       "updated_at": "2026-10-17T15:48:11Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-aarch64-gnu-latest.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 78608096,
       "digest": "sha256:0a605aa7b4213585c2810ae29d32b017134048dbdc29d59396db2464db39dfe2",
-      "download_count": 22,
+      "download_count": 29,
       "created_at": "2026-10-17T15:55:00Z",
       "updated_at": "2026-10-17T15:55:05Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-aarch64-gnu-v1.0.3.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 111537770,
       "digest": "sha256:1c667c8b138fae0ba41786709af49c0b99107f037428d36c8a43ba0627b2408b",
-      "download_count": 74,
+      "download_count": 91,
       "created_at": "2026-10-17T15:48:12Z",
       "updated_at": "2026-10-17T15:48:16Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-aarch64-gnu-v1.0.3.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 93720685,
       "digest": "sha256:28e973c6e630dfa1c7a6d7af86b360e598a34c476d34a0dcbcfbeb70b1f06747",
-      "download_count": 45,
+      "download_count": 49,
       "created_at": "2026-10-17T15:48:17Z",
       "updated_at": "2026-10-17T15:48:20Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-aarch64-musl-latest.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 67638828,
       "digest": "sha256:f03b6b828fb802ed123f8476a9a47da5aa050400d42534d3bc9e2626fd30f683",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-10-17T16:00:31Z",
       "updated_at": "2026-10-17T16:00:33Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-aarch64-musl-v1.0.3.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 93486201,
       "digest": "sha256:29ec53db23a69df688d4bb497a3854657b9588a8366b38a32857d5ffdc081b41",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-17T16:00:34Z",
       "updated_at": "2026-10-17T16:00:37Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-aarch64-musl-v1.0.3.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 93720685,
       "digest": "sha256:28e973c6e630dfa1c7a6d7af86b360e598a34c476d34a0dcbcfbeb70b1f06747",
-      "download_count": 204,
+      "download_count": 250,
       "created_at": "2026-10-17T15:48:21Z",
       "updated_at": "2026-10-17T15:48:25Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-aarch64-musl-v1.0.3.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 115214382,
       "digest": "sha256:0cb0924df93734d14f708004eff4b0e48a147fbdc074756ca0d6b8ec919629b8",
-      "download_count": 294,
+      "download_count": 340,
       "created_at": "2026-10-17T15:48:26Z",
       "updated_at": "2026-10-17T15:48:29Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-x86_64-gnu-latest.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 80325782,
       "digest": "sha256:e600177ee71b6a847b7d13016034a3bdc3d41df2262a18fa999061bb945c6524",
-      "download_count": 197,
+      "download_count": 215,
       "created_at": "2026-10-17T15:52:30Z",
       "updated_at": "2026-10-17T15:52:32Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-x86_64-gnu-v1.0.3.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 112262425,
       "digest": "sha256:2b7b2ace4d43646b088b460c9fb2dbd96f528c06c2e4bfa84b0f23159ac339f9",
-      "download_count": 74,
+      "download_count": 82,
       "created_at": "2026-10-17T15:52:33Z",
       "updated_at": "2026-10-17T15:52:37Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-x86_64-gnu-v1.0.3.rpm"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 115214382,
       "digest": "sha256:0cb0924df93734d14f708004eff4b0e48a147fbdc074756ca0d6b8ec919629b8",
-      "download_count": 705,
+      "download_count": 897,
       "created_at": "2026-10-17T15:48:30Z",
       "updated_at": "2026-10-17T15:48:34Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-x86_64-gnu-v1.0.3.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 101926479,
       "digest": "sha256:29a083f156fe1a246f0336afe16ff77fffe587628e97339448d8f4fba38dba54",
-      "download_count": 216,
+      "download_count": 253,
       "created_at": "2026-10-17T15:48:35Z",
       "updated_at": "2026-10-17T15:48:38Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-x86_64-musl-latest.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 72748446,
       "digest": "sha256:d5cf10bd2c5ed01549023843d515410e3c70b2c065d8477cd9f88db6a09f223c",
-      "download_count": 40,
+      "download_count": 44,
       "created_at": "2026-10-17T15:58:22Z",
       "updated_at": "2026-10-17T15:58:24Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-x86_64-musl-v1.0.3.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 101172637,
       "digest": "sha256:25c5910ae906073c4de610cba6d55ee28781f63d3ef608bdf35094ae85121db7",
-      "download_count": 21,
+      "download_count": 24,
       "created_at": "2026-10-17T15:58:25Z",
       "updated_at": "2026-10-17T15:58:28Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-x86_64-musl-v1.0.3.rpm"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 101926479,
       "digest": "sha256:29a083f156fe1a246f0336afe16ff77fffe587628e97339448d8f4fba38dba54",
-      "download_count": 1101,
+      "download_count": 1398,
       "created_at": "2026-10-17T15:48:39Z",
       "updated_at": "2026-10-17T15:48:42Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-linux-x86_64-musl-v1.0.3.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 91287241,
       "digest": "sha256:9ec6f2ad89df88db9b8889f59e37bb27f6b67c61ee8a97968dd90aaa2ac4dd30",
-      "download_count": 84,
+      "download_count": 98,
       "created_at": "2026-10-17T15:48:43Z",
       "updated_at": "2026-10-17T15:48:47Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-macos-aarch64-latest.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 91287241,
       "digest": "sha256:9ec6f2ad89df88db9b8889f59e37bb27f6b67c61ee8a97968dd90aaa2ac4dd30",
-      "download_count": 395,
+      "download_count": 489,
       "created_at": "2026-10-17T15:48:48Z",
       "updated_at": "2026-10-17T15:48:51Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-macos-aarch64-v1.0.3.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 110212735,
       "digest": "sha256:c72e573b8dbadd1b294d76b46a33ff296afde01a52c3c321da579e74edf5ed32",
-      "download_count": 317,
+      "download_count": 341,
       "created_at": "2026-10-17T15:48:52Z",
       "updated_at": "2026-10-17T15:48:56Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-windows-x86_64-latest.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 110212735,
       "digest": "sha256:c72e573b8dbadd1b294d76b46a33ff296afde01a52c3c321da579e74edf5ed32",
-      "download_count": 439,
+      "download_count": 520,
       "created_at": "2026-10-17T15:48:57Z",
       "updated_at": "2026-10-17T15:49:02Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/rustfs-windows-x86_64-v1.0.3.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 2026,
       "digest": "sha256:e455a7c4e06f6255ee130ffcd7d4f88a1b504f529e09eb82abf5e34854af981c",
-      "download_count": 566,
+      "download_count": 663,
       "created_at": "2026-10-17T16:00:38Z",
       "updated_at": "2026-10-17T16:00:39Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.3/SHA256SUMS"
@@ -906,13 +906,13 @@
   "body": "## What's Changed\n\nRustFS 1.0.3 keeps the 1.0.2 server code and updates the embedded Console to [v0.1.37](https://github.com/rustfs/console/releases/tag/v0.1.37).\n\n- Hide the duplicate bucket heading at the bucket root, where names could appear truncated despite the full name being visible in the top navigation.\n- Add Vietnamese localization and improve deleted-object highlighting and filtering.\n- Update workspace package versions to 1.0.3. No other server changes from main are included.\n\nThe release candidate passed Console upload, download, deletion, bucket and folder navigation checks, plus rc 0.1.36 compatibility checks.\n\n**Full Changelog**: https://github.com/rustfs/rustfs/compare/1.0.2...1.0.3\n",
   "reactions": {
     "url": "https://api.github.com/repos/rustfs/rustfs/releases/415824088/reactions",
-    "total_count": 27,
+    "total_count": 28,
     "+1": 11,
     "-1": 0,
     "laugh": 0,
     "hooray": 4,
     "confused": 0,
-    "heart": 4,
+    "heart": 5,
     "rocket": 8,
     "eyes": 0
   }
