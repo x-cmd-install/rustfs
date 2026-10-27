@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3204,
       "digest": "sha256:a4758b844204dfb73c8f1cefee685796723a96d52f5c276bd187b71f9fef4ed1",
-      "download_count": 15,
+      "download_count": 31,
       "created_at": "2026-10-25T16:25:20Z",
       "updated_at": "2026-10-25T16:25:20Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-1.0.4.provenance.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 342997,
       "digest": "sha256:b328a37f6535773117332208f6e9c0b89c4cbb34d61452de062c039a9574213e",
-      "download_count": 8,
+      "download_count": 16,
       "created_at": "2026-10-25T16:25:21Z",
       "updated_at": "2026-10-25T16:25:21Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-1.0.4.sbom.cdx.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 111555472,
       "digest": "sha256:5c2d4dad2685f41635441b685dc4dead225f84bce2a9a365d87f8151ec88a049",
-      "download_count": 8,
+      "download_count": 18,
       "created_at": "2026-10-25T16:25:21Z",
       "updated_at": "2026-10-25T16:25:25Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-aarch64-gnu-latest.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 78600686,
       "digest": "sha256:635a5229a776f900edb03d84dabefcf276a86124c098e06161393781a4e7d2ba",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-25T16:32:10Z",
       "updated_at": "2026-10-25T16:32:12Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-aarch64-gnu-v1.0.4.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 109145819,
       "digest": "sha256:dcb6fcfca93e038a21aead86596783cc927c4296967958c7cf74cc39d4681344",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-10-25T16:32:13Z",
       "updated_at": "2026-10-25T16:32:16Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-aarch64-gnu-v1.0.4.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 111555472,
       "digest": "sha256:5c2d4dad2685f41635441b685dc4dead225f84bce2a9a365d87f8151ec88a049",
-      "download_count": 16,
+      "download_count": 36,
       "created_at": "2026-10-25T16:25:26Z",
       "updated_at": "2026-10-25T16:25:29Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-aarch64-gnu-v1.0.4.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 93747785,
       "digest": "sha256:81414fd0e41969f4f5c2e0555951cee76d3f224c112c269c80f52b31276f187a",
-      "download_count": 7,
+      "download_count": 15,
       "created_at": "2026-10-25T16:25:29Z",
       "updated_at": "2026-10-25T16:25:33Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-aarch64-musl-latest.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 67658124,
       "digest": "sha256:252cdf3933ff3cf95232586051e6af9f6a0b49f61bf22b00013d6b6c845b5e35",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-25T16:36:37Z",
       "updated_at": "2026-10-25T16:36:40Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-aarch64-musl-v1.0.4.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 93514757,
       "digest": "sha256:a335fd3527ffccadb12df35a222a53b215294a2b99e8b55d72c6c4b87bef6e90",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-10-25T16:36:41Z",
       "updated_at": "2026-10-25T16:36:44Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-aarch64-musl-v1.0.4.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 93747785,
       "digest": "sha256:81414fd0e41969f4f5c2e0555951cee76d3f224c112c269c80f52b31276f187a",
-      "download_count": 28,
+      "download_count": 112,
       "created_at": "2026-10-25T16:25:33Z",
       "updated_at": "2026-10-25T16:25:36Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-aarch64-musl-v1.0.4.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 115273440,
       "digest": "sha256:4a25e48f5b5ae610a679b5324206962c6fb0eb20a9fa7ab6cb20e178cf6c534b",
-      "download_count": 22,
+      "download_count": 51,
       "created_at": "2026-10-25T16:25:37Z",
       "updated_at": "2026-10-25T16:25:41Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-x86_64-gnu-latest.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 80379688,
       "digest": "sha256:37a7b5668a9073c72d9e55c7e08e0029feba114139ecca3205a2719e5a8c3a0a",
-      "download_count": 13,
+      "download_count": 87,
       "created_at": "2026-10-25T16:29:16Z",
       "updated_at": "2026-10-25T16:29:19Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-x86_64-gnu-v1.0.4.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 112315624,
       "digest": "sha256:6a2e7a915c2675d110a752c5a6d2878577de2e6df5701ceb3592c4e20d1e0db6",
-      "download_count": 9,
+      "download_count": 23,
       "created_at": "2026-10-25T16:29:20Z",
       "updated_at": "2026-10-25T16:29:23Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-x86_64-gnu-v1.0.4.rpm"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 115273440,
       "digest": "sha256:4a25e48f5b5ae610a679b5324206962c6fb0eb20a9fa7ab6cb20e178cf6c534b",
-      "download_count": 138,
+      "download_count": 258,
       "created_at": "2026-10-25T16:25:41Z",
       "updated_at": "2026-10-25T16:25:45Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-x86_64-gnu-v1.0.4.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 101969573,
       "digest": "sha256:4924ad4b699b9f59943051efedae2d1eb6d4cac503a1b0384c4b25f7c2c31b5c",
-      "download_count": 33,
+      "download_count": 58,
       "created_at": "2026-10-25T16:25:46Z",
       "updated_at": "2026-10-25T16:25:49Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-x86_64-musl-latest.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 72800280,
       "digest": "sha256:1fe9ae2aa6e27cdff37d281f65c60a0c44177df4abef623807fab45dd12a58d4",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-10-25T16:34:28Z",
       "updated_at": "2026-10-25T16:34:31Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-x86_64-musl-v1.0.4.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 101224384,
       "digest": "sha256:c89e1e77b688a0b7755ae59f87b7679527a1f05d059c449abc95b2bd718ac372",
-      "download_count": 5,
+      "download_count": 10,
       "created_at": "2026-10-25T16:34:31Z",
       "updated_at": "2026-10-25T16:34:35Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-x86_64-musl-v1.0.4.rpm"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 101969573,
       "digest": "sha256:4924ad4b699b9f59943051efedae2d1eb6d4cac503a1b0384c4b25f7c2c31b5c",
-      "download_count": 49,
+      "download_count": 231,
       "created_at": "2026-10-25T16:25:49Z",
       "updated_at": "2026-10-25T16:25:53Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-linux-x86_64-musl-v1.0.4.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 91302787,
       "digest": "sha256:49057482769d7904ef95dc40457d71122f48cbb8e9e0725a0817a3ec6daf8270",
-      "download_count": 11,
+      "download_count": 43,
       "created_at": "2026-10-25T16:25:53Z",
       "updated_at": "2026-10-25T16:25:57Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-macos-aarch64-latest.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 91302787,
       "digest": "sha256:49057482769d7904ef95dc40457d71122f48cbb8e9e0725a0817a3ec6daf8270",
-      "download_count": 29,
+      "download_count": 116,
       "created_at": "2026-10-25T16:25:57Z",
       "updated_at": "2026-10-25T16:26:01Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-macos-aarch64-v1.0.4.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 110271038,
       "digest": "sha256:2e3af0b187dd70435dfdefe5f61aae7eede5a21fc9a2a2f07e289f727adbcfa6",
-      "download_count": 19,
+      "download_count": 77,
       "created_at": "2026-10-25T16:26:01Z",
       "updated_at": "2026-10-25T16:26:05Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-windows-x86_64-latest.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 110271038,
       "digest": "sha256:2e3af0b187dd70435dfdefe5f61aae7eede5a21fc9a2a2f07e289f727adbcfa6",
-      "download_count": 32,
+      "download_count": 118,
       "created_at": "2026-10-25T16:26:05Z",
       "updated_at": "2026-10-25T16:26:08Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/rustfs-windows-x86_64-v1.0.4.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 2026,
       "digest": "sha256:835f1a59e05ee63c5c4e0759ca5ae41ed0dab54814f7fad254486bf963dc0657",
-      "download_count": 78,
+      "download_count": 206,
       "created_at": "2026-10-25T16:36:47Z",
       "updated_at": "2026-10-25T16:36:47Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/SHA256SUMS"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 3306,
       "digest": "sha256:cf382daf3b04e0160f2697ceaeaf1703185f8c21d9c9a366f8f62d8ec1714048",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-10-25T16:36:48Z",
       "updated_at": "2026-10-25T16:36:48Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.4/SHA512SUMS"
@@ -906,13 +906,13 @@
   "body": "This patch updates certificate verification and bundled trust roots, removes the distrusted emSign ECC Root CA - G3 from container trust stores, and retains the dependency refresh.\n\n## What's Changed\n* chore(deps): refresh dependencies and pin Pulsar 6.9.0 by @houseme in https://github.com/rustfs/rustfs/pull/8923\n* fix(test): backport scanner wait correction for 1.0.4 by @overtrue in https://github.com/rustfs/rustfs/pull/8930\n\n\n**Full Changelog**: https://github.com/rustfs/rustfs/compare/1.0.3...1.0.4\n",
   "reactions": {
     "url": "https://api.github.com/repos/rustfs/rustfs/releases/423517607/reactions",
-    "total_count": 15,
-    "+1": 6,
+    "total_count": 20,
+    "+1": 9,
     "-1": 0,
     "laugh": 0,
-    "hooray": 4,
+    "hooray": 5,
     "confused": 0,
-    "heart": 5,
+    "heart": 6,
     "rocket": 0,
     "eyes": 0
   },

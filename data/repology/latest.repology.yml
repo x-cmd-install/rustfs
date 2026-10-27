@@ -30,8 +30,8 @@
   srcname: rustfs-bin
   binname: rustfs-bin
   visiblename: rustfs-bin
-  version: 1.0.3
-  origversion: 1.0.3-5
+  version: 1.0.4
+  origversion: 1.0.4-1
   status: newest
   summary: "\U0001F680 High-performance distributed object storage for MinIO alternative."
   maintainers:
@@ -54,8 +54,8 @@
   srcname: mingw-w64-rustfs
   binname: mingw-w64-clang-x86_64-rustfs
   visiblename: mingw-w64-clang-x86_64-rustfs
-  version: 1.0.3
-  origversion: 1.0.3-1
+  version: 1.0.4
+  origversion: 1.0.4-1
   status: newest
   summary: High-performance, memory-safe distributed object storage (mingw-w64)
   licenses:
@@ -64,8 +64,8 @@
   srcname: mingw-w64-rustfs
   binname: mingw-w64-clang-aarch64-rustfs
   visiblename: mingw-w64-clang-aarch64-rustfs
-  version: 1.0.3
-  origversion: 1.0.3-1
+  version: 1.0.4
+  origversion: 1.0.4-1
   status: newest
   summary: High-performance, memory-safe distributed object storage (mingw-w64)
   licenses:
@@ -74,8 +74,8 @@
   srcname: mingw-w64-rustfs
   binname: mingw-w64-ucrt-x86_64-rustfs
   visiblename: mingw-w64-ucrt-x86_64-rustfs
-  version: 1.0.3
-  origversion: 1.0.3-1
+  version: 1.0.4
+  origversion: 1.0.4-1
   status: newest
   summary: High-performance, memory-safe distributed object storage (mingw-w64)
   licenses:
@@ -85,7 +85,7 @@
   visiblename: rustfs
   version: 1.0.3
   origversion: null
-  status: newest
+  status: outdated
   summary: S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph
   maintainers:
     - me@m4rc3l.de
@@ -97,7 +97,7 @@
   visiblename: rustfs
   version: 1.0.3
   origversion: null
-  status: newest
+  status: outdated
   summary: High-performance distributed object storage
   maintainers:
     - rene@exactco.de
