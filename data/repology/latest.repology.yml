@@ -83,9 +83,9 @@
 - repo: nix_unstable
   srcname: rustfs
   visiblename: rustfs
-  version: 1.0.3
+  version: 1.0.4
   origversion: null
-  status: outdated
+  status: newest
   summary: S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph
   maintainers:
     - me@m4rc3l.de
@@ -95,9 +95,9 @@
 - repo: t2
   srcname: rustfs
   visiblename: rustfs
-  version: 1.0.3
+  version: 1.0.4
   origversion: null
-  status: outdated
+  status: newest
   summary: High-performance distributed object storage
   maintainers:
     - rene@exactco.de
