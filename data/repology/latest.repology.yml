@@ -18,8 +18,8 @@
   srcname: rustfs
   binname: rustfs
   visiblename: rustfs
-  version: 1.0.1
-  origversion: 1.0.1-1
+  version: 1.0.3
+  origversion: 1.0.3-2
   status: outdated
   summary: High-performance distributed object storage for MinIO alternative.
   maintainers:
