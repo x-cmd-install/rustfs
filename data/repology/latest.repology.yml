@@ -50,6 +50,18 @@
     - cheatsc@aur
   licenses:
     - Apache-2.0
+- repo: freebsd
+  srcname: www/rustfs
+  binname: rustfs
+  visiblename: www/rustfs
+  version: 1.0.4
+  origversion: null
+  status: newest
+  summary: High-performance distributed S3-compatible object storage
+  maintainers:
+    - longros@freebsd.org
+  categories:
+    - www
 - repo: msys2_clang64
   srcname: mingw-w64-rustfs
   binname: mingw-w64-clang-x86_64-rustfs
@@ -95,9 +107,9 @@
 - repo: t2
   srcname: rustfs
   visiblename: rustfs
-  version: 1.0.4
+  version: 1.0.5
   origversion: null
-  status: newest
+  status: untrusted
   summary: High-performance distributed object storage
   maintainers:
     - rene@exactco.de
