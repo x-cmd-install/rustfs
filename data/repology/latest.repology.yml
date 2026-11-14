@@ -30,9 +30,9 @@
   srcname: rustfs-bin
   binname: rustfs-bin
   visiblename: rustfs-bin
-  version: 1.0.4
-  origversion: 1.0.4-1
-  status: outdated
+  version: 1.0.5
+  origversion: 1.0.5-1
+  status: newest
   summary: "\U0001F680 High-performance distributed object storage for MinIO alternative."
   maintainers:
     - quantulr@aur
