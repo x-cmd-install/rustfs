@@ -66,9 +66,9 @@
   srcname: mingw-w64-rustfs
   binname: mingw-w64-clang-x86_64-rustfs
   visiblename: mingw-w64-clang-x86_64-rustfs
-  version: 1.0.4
-  origversion: 1.0.4-1
-  status: outdated
+  version: 1.0.5
+  origversion: 1.0.5-1
+  status: newest
   summary: High-performance, memory-safe distributed object storage (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -76,9 +76,9 @@
   srcname: mingw-w64-rustfs
   binname: mingw-w64-clang-aarch64-rustfs
   visiblename: mingw-w64-clang-aarch64-rustfs
-  version: 1.0.4
-  origversion: 1.0.4-1
-  status: outdated
+  version: 1.0.5
+  origversion: 1.0.5-1
+  status: newest
   summary: High-performance, memory-safe distributed object storage (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -86,9 +86,9 @@
   srcname: mingw-w64-rustfs
   binname: mingw-w64-ucrt-x86_64-rustfs
   visiblename: mingw-w64-ucrt-x86_64-rustfs
-  version: 1.0.4
-  origversion: 1.0.4-1
-  status: outdated
+  version: 1.0.5
+  origversion: 1.0.5-1
+  status: newest
   summary: High-performance, memory-safe distributed object storage (mingw-w64)
   licenses:
     - spdx:Apache-2.0
