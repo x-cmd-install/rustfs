@@ -14,15 +14,15 @@ x install rustfs
 
 ## 代码洞察
 
-合计: **1,870,715** 行代码（覆盖前 5 种语言、共 **2993** 个文件）。
+合计: **1,889,658** 行代码（覆盖前 5 种语言、共 **3016** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,737,774 | 68,379 | 156,082 | 2408 |
-| Python | 59,813 | 1,187 | 6,865 | 158 |
-| Sh | 46,744 | 3,146 | 5,824 | 180 |
+| Rust | 1,754,812 | 68,976 | 157,130 | 2425 |
+| Python | 60,718 | 1,190 | 6,975 | 162 |
+| Sh | 47,725 | 3,154 | 5,881 | 182 |
 | Json | 17,400 | 0 | 0 | 183 |
-| Toml | 4,080 | 996 | 418 | 64 |
+| Toml | 4,098 | 1,004 | 418 | 64 |
 
 ## 源代码
 
@@ -32,58 +32,57 @@ x install rustfs
 
 ## 发布
 
-- **最新版本**: `1.0.5` (2026-11-10)
-- **最近提交**: 2026-11-15
-- **Release 含资产**: 25 个
+- **最新版本**: `1.0.6` (2026-11-15)
+- **最近提交**: 2026-11-16
+- **Release 含资产**: 24 个
 
 ## 流行度
 
-- **Star**: 36,106 · **Fork**: 1,665 · **开放 issue**: 2,107 · **贡献者**: 215
+- **Star**: 36,141 · **Fork**: 1,668 · **开放 issue**: 2,115 · **贡献者**: 215
 
 ## 累计统计
 
-- **发布数**: 126 · **已合并 PR**: 6589 · **开放 PR**: 24 · **已关闭 issue**: 2060 · **开放 issue**: 47 · **提交数**: 7792
+- **发布数**: 127 · **已合并 PR**: 6606 · **开放 PR**: 24 · **已关闭 issue**: 2063 · **开放 issue**: 52 · **提交数**: 7833
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 611 | 24 | 100 | 38 | 498 |
-| last60d | 2026-09-16 | 6 | 1085 | 24 | 248 | 44 | 986 |
-| 90d | 2026-08-17 | 10 | 2554 | 24 | 478 | 44 | 1997 |
-| last180d | 2026-05-19 | 25 | 5187 | 24 | 880 | 46 | 4681 |
-| 360d | 2025-11-20 | 59 | 6260 | 24 | 1668 | 47 | 5776 |
-| last720d | 2024-11-25 | 100 | 6588 | 24 | 2060 | 47 | 7364 |
+| 30d | 2026-10-17 | 4 | 603 | 24 | 102 | 43 | 539 |
+| last60d | 2026-09-17 | 6 | 1086 | 24 | 234 | 49 | 1027 |
+| 90d | 2026-08-18 | 11 | 2537 | 24 | 475 | 49 | 2038 |
+| last180d | 2026-05-20 | 26 | 5195 | 24 | 878 | 51 | 4722 |
+| 360d | 2025-11-21 | 59 | 6276 | 24 | 1666 | 52 | 5817 |
+| last720d | 2024-11-26 | 100 | 6605 | 24 | 2063 | 52 | 7405 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [release-recovery.json](https://github.com/rustfs/rustfs/releases/download/1.0.5/release-recovery.json) | 4.5 KiB | `other` |
-| [rustfs-1.0.5.provenance.json](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-1.0.5.provenance.json) | 3.1 KiB | `other` |
-| [rustfs-1.0.5.sbom.cdx.json](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-1.0.5.sbom.cdx.json) | 335.3 KiB | `other` |
-| [rustfs-linux-aarch64-gnu-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-aarch64-gnu-latest.zip) | 113.2 MiB | `native/linux/arm64/glibc` |
-| [rustfs-linux-aarch64-gnu-v1.0.5.deb](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-aarch64-gnu-v1.0.5.deb) | 79.8 MiB | `native/linux/arm64/glibc` |
-| [rustfs-linux-aarch64-gnu-v1.0.5.rpm](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-aarch64-gnu-v1.0.5.rpm) | 110.7 MiB | `native/linux/arm64/glibc` |
-| [rustfs-linux-aarch64-gnu-v1.0.5.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-aarch64-gnu-v1.0.5.zip) | 113.2 MiB | `native/linux/arm64/glibc` |
-| [rustfs-linux-aarch64-musl-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-aarch64-musl-latest.zip) | 95.4 MiB | `native/linux/arm64/musl` |
-| [rustfs-linux-aarch64-musl-v1.0.5.deb](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-aarch64-musl-v1.0.5.deb) | 69.2 MiB | `native/linux/arm64/musl` |
-| [rustfs-linux-aarch64-musl-v1.0.5.rpm](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-aarch64-musl-v1.0.5.rpm) | 95.1 MiB | `native/linux/arm64/musl` |
-| [rustfs-linux-aarch64-musl-v1.0.5.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-aarch64-musl-v1.0.5.zip) | 95.4 MiB | `native/linux/arm64/musl` |
-| [rustfs-linux-x86_64-gnu-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-x86_64-gnu-latest.zip) | 116.8 MiB | `native/linux/x64/glibc` |
-| [rustfs-linux-x86_64-gnu-v1.0.5.deb](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-x86_64-gnu-v1.0.5.deb) | 81.5 MiB | `native/linux/x64/glibc` |
-| [rustfs-linux-x86_64-gnu-v1.0.5.rpm](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-x86_64-gnu-v1.0.5.rpm) | 113.8 MiB | `native/linux/x64/glibc` |
-| [rustfs-linux-x86_64-gnu-v1.0.5.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-x86_64-gnu-v1.0.5.zip) | 116.8 MiB | `native/linux/x64/glibc` |
-| [rustfs-linux-x86_64-musl-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-x86_64-musl-latest.zip) | 103.4 MiB | `native/linux/x64/musl` |
-| [rustfs-linux-x86_64-musl-v1.0.5.deb](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-x86_64-musl-v1.0.5.deb) | 74.1 MiB | `native/linux/x64/musl` |
-| [rustfs-linux-x86_64-musl-v1.0.5.rpm](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-x86_64-musl-v1.0.5.rpm) | 102.7 MiB | `native/linux/x64/musl` |
-| [rustfs-linux-x86_64-musl-v1.0.5.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-linux-x86_64-musl-v1.0.5.zip) | 103.4 MiB | `native/linux/x64/musl` |
-| [rustfs-macos-aarch64-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-macos-aarch64-latest.zip) | 92.6 MiB | `native/darwin/arm64` |
-| [rustfs-macos-aarch64-v1.0.5.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-macos-aarch64-v1.0.5.zip) | 92.6 MiB | `native/darwin/arm64` |
-| [rustfs-windows-x86_64-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-windows-x86_64-latest.zip) | 111.8 MiB | `native/win/x64` |
-| [rustfs-windows-x86_64-v1.0.5.zip](https://github.com/rustfs/rustfs/releases/download/1.0.5/rustfs-windows-x86_64-v1.0.5.zip) | 111.8 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/rustfs/rustfs/releases/download/1.0.5/SHA256SUMS) | 2.0 KiB | `other` |
-| [SHA512SUMS](https://github.com/rustfs/rustfs/releases/download/1.0.5/SHA512SUMS) | 3.2 KiB | `other` |
+| [rustfs-1.0.6.provenance.json](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-1.0.6.provenance.json) | 3.1 KiB | `other` |
+| [rustfs-1.0.6.sbom.cdx.json](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-1.0.6.sbom.cdx.json) | 335.3 KiB | `other` |
+| [rustfs-linux-aarch64-gnu-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-aarch64-gnu-latest.zip) | 114.2 MiB | `native/linux/arm64/glibc` |
+| [rustfs-linux-aarch64-gnu-v1.0.6.deb](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-aarch64-gnu-v1.0.6.deb) | 80.9 MiB | `native/linux/arm64/glibc` |
+| [rustfs-linux-aarch64-gnu-v1.0.6.rpm](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-aarch64-gnu-v1.0.6.rpm) | 111.7 MiB | `native/linux/arm64/glibc` |
+| [rustfs-linux-aarch64-gnu-v1.0.6.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-aarch64-gnu-v1.0.6.zip) | 114.2 MiB | `native/linux/arm64/glibc` |
+| [rustfs-linux-aarch64-musl-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-aarch64-musl-latest.zip) | 96.2 MiB | `native/linux/arm64/musl` |
+| [rustfs-linux-aarch64-musl-v1.0.6.deb](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-aarch64-musl-v1.0.6.deb) | 70.0 MiB | `native/linux/arm64/musl` |
+| [rustfs-linux-aarch64-musl-v1.0.6.rpm](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-aarch64-musl-v1.0.6.rpm) | 96.0 MiB | `native/linux/arm64/musl` |
+| [rustfs-linux-aarch64-musl-v1.0.6.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-aarch64-musl-v1.0.6.zip) | 96.2 MiB | `native/linux/arm64/musl` |
+| [rustfs-linux-x86_64-gnu-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-x86_64-gnu-latest.zip) | 117.8 MiB | `native/linux/x64/glibc` |
+| [rustfs-linux-x86_64-gnu-v1.0.6.deb](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-x86_64-gnu-v1.0.6.deb) | 82.6 MiB | `native/linux/x64/glibc` |
+| [rustfs-linux-x86_64-gnu-v1.0.6.rpm](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-x86_64-gnu-v1.0.6.rpm) | 114.8 MiB | `native/linux/x64/glibc` |
+| [rustfs-linux-x86_64-gnu-v1.0.6.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-x86_64-gnu-v1.0.6.zip) | 117.8 MiB | `native/linux/x64/glibc` |
+| [rustfs-linux-x86_64-musl-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-x86_64-musl-latest.zip) | 104.4 MiB | `native/linux/x64/musl` |
+| [rustfs-linux-x86_64-musl-v1.0.6.deb](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-x86_64-musl-v1.0.6.deb) | 75.0 MiB | `native/linux/x64/musl` |
+| [rustfs-linux-x86_64-musl-v1.0.6.rpm](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-x86_64-musl-v1.0.6.rpm) | 103.6 MiB | `native/linux/x64/musl` |
+| [rustfs-linux-x86_64-musl-v1.0.6.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-linux-x86_64-musl-v1.0.6.zip) | 104.4 MiB | `native/linux/x64/musl` |
+| [rustfs-macos-aarch64-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-macos-aarch64-latest.zip) | 93.4 MiB | `native/darwin/arm64` |
+| [rustfs-macos-aarch64-v1.0.6.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-macos-aarch64-v1.0.6.zip) | 93.4 MiB | `native/darwin/arm64` |
+| [rustfs-windows-x86_64-latest.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-windows-x86_64-latest.zip) | 113.0 MiB | `native/win/x64` |
+| [rustfs-windows-x86_64-v1.0.6.zip](https://github.com/rustfs/rustfs/releases/download/1.0.6/rustfs-windows-x86_64-v1.0.6.zip) | 113.0 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/rustfs/rustfs/releases/download/1.0.6/SHA256SUMS) | 2.0 KiB | `other` |
+| [SHA512SUMS](https://github.com/rustfs/rustfs/releases/download/1.0.6/SHA512SUMS) | 3.2 KiB | `other` |
 
 ## 发行版状态
 
@@ -102,4 +101,4 @@ rustfs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T06:14:59Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T06:15:41Z._
