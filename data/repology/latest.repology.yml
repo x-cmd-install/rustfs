@@ -107,9 +107,9 @@
 - repo: t2
   srcname: rustfs
   visiblename: rustfs
-  version: 1.0.5
+  version: 1.0.6
   origversion: null
-  status: newest
+  status: untrusted
   summary: High-performance distributed object storage
   maintainers:
     - rene@exactco.de
