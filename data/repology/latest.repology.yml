@@ -54,7 +54,7 @@
   srcname: www/rustfs
   binname: rustfs
   visiblename: www/rustfs
-  version: 1.0.4
+  version: 1.0.5
   origversion: null
   status: outdated
   summary: High-performance distributed S3-compatible object storage
