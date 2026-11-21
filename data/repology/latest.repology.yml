@@ -54,9 +54,9 @@
   srcname: www/rustfs
   binname: rustfs
   visiblename: www/rustfs
-  version: 1.0.5
+  version: 1.0.6
   origversion: null
-  status: outdated
+  status: newest
   summary: High-performance distributed S3-compatible object storage
   maintainers:
     - longros@freebsd.org
