@@ -14,11 +14,11 @@ x install rustfs
 
 ## Code insight
 
-Total: **1,925,162** lines of code across **3076** files in the top 5 languages.
+Total: **1,925,628** lines of code across **3076** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,788,531 | 70,217 | 158,424 | 2473 |
+| Rust | 1,788,997 | 70,214 | 158,420 | 2473 |
 | Python | 62,500 | 1,167 | 7,164 | 173 |
 | Sh | 47,721 | 3,160 | 5,882 | 183 |
 | Json | 17,400 | 0 | 0 | 183 |
@@ -33,27 +33,27 @@ Total: **1,925,162** lines of code across **3076** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.0.6` (2026-11-15)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-22
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 36,335 · **Forks**: 1,689 · **Open issues**: 2,136 · **Contributors**: 218
+- **Stars**: 36,351 · **Forks**: 1,687 · **Open issues**: 2,140 · **Contributors**: 218
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 6649 · **Open PRs**: 37 · **Closed issues**: 2075 · **Open issues**: 61 · **Commits**: 8100
+- **Releases**: 127 · **Merged PRs**: 6656 · **Open PRs**: 46 · **Closed issues**: 2077 · **Open issues**: 63 · **Commits**: 8141
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 523 | 36 | 76 | 52 | 806 |
-| last60d | 2026-09-22 | 6 | 1075 | 37 | 219 | 56 | 1294 |
-| 90d | 2026-08-23 | 10 | 2363 | 37 | 464 | 58 | 2305 |
-| last180d | 2026-05-25 | 25 | 5207 | 37 | 878 | 60 | 4989 |
-| 360d | 2025-11-26 | 59 | 6310 | 37 | 1668 | 61 | 6084 |
-| last720d | 2024-12-01 | 100 | 6648 | 37 | 2075 | 61 | 7649 |
+| 30d | 2026-10-23 | 3 | 502 | 45 | 68 | 53 | 669 |
+| last60d | 2026-09-23 | 6 | 1063 | 46 | 219 | 57 | 1224 |
+| 90d | 2026-08-24 | 10 | 2294 | 46 | 457 | 60 | 2015 |
+| last180d | 2026-05-26 | 25 | 5210 | 46 | 879 | 62 | 4975 |
+| 360d | 2025-11-27 | 58 | 6316 | 46 | 1667 | 63 | 6112 |
+| last720d | 2024-12-02 | 100 | 6655 | 46 | 2077 | 63 | 7685 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for rustfs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:26:59Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:33:18Z._
