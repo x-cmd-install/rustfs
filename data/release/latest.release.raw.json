@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3204,
       "digest": "sha256:4c7e5b16b3a96a604a2ac270b66e69f3ec8fc101380c5a5a5659572ef2668fcf",
-      "download_count": 35,
+      "download_count": 43,
       "created_at": "2026-11-26T08:07:54Z",
       "updated_at": "2026-11-26T08:07:54Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-1.0.7.provenance.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 343362,
       "digest": "sha256:4d83b397d942fa61090a0b77ff7596c18d9563573a583989017ba31761e131b8",
-      "download_count": 29,
+      "download_count": 34,
       "created_at": "2026-11-26T08:07:55Z",
       "updated_at": "2026-11-26T08:07:56Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-1.0.7.sbom.cdx.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 122648650,
       "digest": "sha256:147ef56079be712a242c4db43866ab269a6441a14214d66bac7ed22ef5db419e",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-11-26T08:07:57Z",
       "updated_at": "2026-11-26T08:08:03Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-aarch64-gnu-latest.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 86866496,
       "digest": "sha256:a89ec3d2029df8f89c8fb28773fd2d868f2cd50300113927c2c38508ca2980f8",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-11-26T10:56:31Z",
       "updated_at": "2026-11-26T10:56:35Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-aarch64-gnu-v1.0.7.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 122648650,
       "digest": "sha256:147ef56079be712a242c4db43866ab269a6441a14214d66bac7ed22ef5db419e",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-26T08:08:04Z",
       "updated_at": "2026-11-26T08:08:09Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-aarch64-gnu-v1.0.7.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 103469869,
       "digest": "sha256:e2c6d45105dd05df2f35547fbebfacf40dfba6ec4f8c31b86e30934faea79e76",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-11-26T08:08:10Z",
       "updated_at": "2026-11-26T08:08:15Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-aarch64-musl-latest.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 103469869,
       "digest": "sha256:e2c6d45105dd05df2f35547fbebfacf40dfba6ec4f8c31b86e30934faea79e76",
-      "download_count": 39,
+      "download_count": 83,
       "created_at": "2026-11-26T08:08:16Z",
       "updated_at": "2026-11-26T08:08:21Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-aarch64-musl-v1.0.7.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 126737056,
       "digest": "sha256:4cd2ee55b75f7cb7c935eeb20f8c22f17e1453009cf1af1ff8b42f7986cba201",
-      "download_count": 36,
+      "download_count": 69,
       "created_at": "2026-11-26T08:08:22Z",
       "updated_at": "2026-11-26T08:08:30Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-x86_64-gnu-latest.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 88979668,
       "digest": "sha256:42b1b9c78d1a661353b244aa64c04799993469d449873f7939c2293795929917",
-      "download_count": 52,
+      "download_count": 103,
       "created_at": "2026-11-26T10:56:31Z",
       "updated_at": "2026-11-26T10:56:36Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-x86_64-gnu-v1.0.7.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 123424423,
       "digest": "sha256:5dac7d147eb62a005cb0615c6720ca5d2c3b14e00d478677b429068800d95c4f",
-      "download_count": 25,
+      "download_count": 32,
       "created_at": "2026-11-26T10:56:31Z",
       "updated_at": "2026-11-26T10:56:38Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-x86_64-gnu-v1.0.7.rpm"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 126737056,
       "digest": "sha256:4cd2ee55b75f7cb7c935eeb20f8c22f17e1453009cf1af1ff8b42f7986cba201",
-      "download_count": 133,
+      "download_count": 269,
       "created_at": "2026-11-26T08:08:31Z",
       "updated_at": "2026-11-26T08:08:37Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-x86_64-gnu-v1.0.7.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 112388130,
       "digest": "sha256:c90a40ba8cdc1468c71029a4d65fdd13449720183d3a8e00bc61ab09fcd448a5",
-      "download_count": 94,
+      "download_count": 177,
       "created_at": "2026-11-26T08:08:38Z",
       "updated_at": "2026-11-26T08:08:43Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-x86_64-musl-latest.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 80842920,
       "digest": "sha256:7fdb3a02044d233521da93881a4d150f6f6164a5a6e9da9b7cd7d11df8cf7340",
-      "download_count": 17,
+      "download_count": 31,
       "created_at": "2026-11-26T10:56:31Z",
       "updated_at": "2026-11-26T10:56:35Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-x86_64-musl-v1.0.7.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 111537447,
       "digest": "sha256:e4a3a9adf4399f1594ab08a73f8baadfd710e1c14bae223becbd3086c40c144a",
-      "download_count": 17,
+      "download_count": 42,
       "created_at": "2026-11-26T10:56:31Z",
       "updated_at": "2026-11-26T10:56:37Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-x86_64-musl-v1.0.7.rpm"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 112388130,
       "digest": "sha256:c90a40ba8cdc1468c71029a4d65fdd13449720183d3a8e00bc61ab09fcd448a5",
-      "download_count": 186,
+      "download_count": 392,
       "created_at": "2026-11-26T08:08:44Z",
       "updated_at": "2026-11-26T08:08:49Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-linux-x86_64-musl-v1.0.7.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 100487074,
       "digest": "sha256:4b8c7cf06c9b1c640bf48efdb92f0ab6857cac2836f591f3642c81d2d2f0813f",
-      "download_count": 11,
+      "download_count": 22,
       "created_at": "2026-11-26T08:08:50Z",
       "updated_at": "2026-11-26T08:08:53Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-macos-aarch64-latest.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 100487074,
       "digest": "sha256:4b8c7cf06c9b1c640bf48efdb92f0ab6857cac2836f591f3642c81d2d2f0813f",
-      "download_count": 103,
+      "download_count": 193,
       "created_at": "2026-11-26T08:08:54Z",
       "updated_at": "2026-11-26T08:09:00Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-macos-aarch64-v1.0.7.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 121635959,
       "digest": "sha256:d8f58a799836d964bd16440a042028d870130288b7c0c0924471983027d8dce8",
-      "download_count": 54,
+      "download_count": 92,
       "created_at": "2026-11-26T08:09:01Z",
       "updated_at": "2026-11-26T08:09:06Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-windows-x86_64-latest.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 121635959,
       "digest": "sha256:d8f58a799836d964bd16440a042028d870130288b7c0c0924471983027d8dce8",
-      "download_count": 204,
+      "download_count": 342,
       "created_at": "2026-11-26T08:09:07Z",
       "updated_at": "2026-11-26T08:09:12Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/rustfs-windows-x86_64-v1.0.7.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 2026,
       "digest": "sha256:a9886b1035727675a73276b426e9de9b04a4ffed5c3ee77db8dcd02260d63ab6",
-      "download_count": 118,
+      "download_count": 215,
       "created_at": "2026-11-26T10:57:04Z",
       "updated_at": "2026-11-26T10:57:04Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/SHA256SUMS"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 3306,
       "digest": "sha256:a452183b8da28f9cdf12c2dcd9155dae8260ac26ce1d2936453caecca1e34b6a",
-      "download_count": 6,
+      "download_count": 10,
       "created_at": "2026-11-26T10:57:04Z",
       "updated_at": "2026-11-26T10:57:04Z",
       "browser_download_url": "https://github.com/rustfs/rustfs/releases/download/1.0.7/SHA512SUMS"
@@ -906,8 +906,8 @@
   "body": "<!-- rustfs-generated-release-notes: managed; remove this marker before manual edits -->\n## What's Changed\n* fix(storage): backport scanner recovery and ordered shard reads by @overtrue in https://github.com/rustfs/rustfs/pull/9512\n* fix(scanner): resume wide directory scans on release 1.0.7 by @cxymds in https://github.com/rustfs/rustfs/pull/9523\n* fix(scanner): backport usage and recovery fixes to 1.0.7 by @cxymds in https://github.com/rustfs/rustfs/pull/9531\n* fix(storage): bound delete recovery and guard legacy residue cleanup by @cxymds in https://github.com/rustfs/rustfs/pull/9534\n* fix(storage): backport replacement heal and scanner fixes to 1.0.7 by @cxymds in https://github.com/rustfs/rustfs/pull/9533\n* fix(ilm): continue tier recovery past unreadable objects in 1.0.7 by @cxymds in https://github.com/rustfs/rustfs/pull/9539\n* fix(iam): backport Console STS password rotation to 1.0.7 by @cxymds in https://github.com/rustfs/rustfs/pull/9536\n* fix(admin): report inventory coverage and cluster scanner activity on 1.0.7 by @cxymds in https://github.com/rustfs/rustfs/pull/9540\n* fix(scanner): preserve discovery progress across owner cancellation by @cxymds in https://github.com/rustfs/rustfs/pull/9546\n* feat(scanner): expose durable bucket scan progress by @cxymds in https://github.com/rustfs/rustfs/pull/9548\n* fix(scanner): restore release CI and preserve admin response contracts by @overtrue in https://github.com/rustfs/rustfs/pull/9555\n* fix(scanner): preserve durable progress on wide and changing buckets by @overtrue in https://github.com/rustfs/rustfs/pull/9552\n* fix(heal): retry busy bucket repairs after a node restart by @overtrue in https://github.com/rustfs/rustfs/pull/9562\n* fix(scanner): reuse sealed page names during directory enumeration by @overtrue in https://github.com/rustfs/rustfs/pull/9564\n* fix(scanner): fence prefix usage cache fills across invalidation by @overtrue in https://github.com/rustfs/rustfs/pull/9566\n* fix(scanner): preserve inventory and maintenance coverage by @overtrue in https://github.com/rustfs/rustfs/pull/9567\n* fix(scanner): recertify legacy usage after cold restart by @cxymds in https://github.com/rustfs/rustfs/pull/9573\n* fix(scanner): resume checkpoints and expose partial progress by @cxymds in https://github.com/rustfs/rustfs/pull/9583\n* fix(scanner): preserve checkpoint coverage across handoffs by @cxymds in https://github.com/rustfs/rustfs/pull/9587\n* fix(scanner): preserve completed usage and publish initial progress by @cxymds in https://github.com/rustfs/rustfs/pull/9592\n* fix(decommission): keep scanner progress on its owning set by @cxymds in https://github.com/rustfs/rustfs/pull/9603\n* fix(sts): validate root credentials on 1.0.7 startup by @houseme in https://github.com/rustfs/rustfs/pull/9604\n* fix(sts): validate root credentials and report parent access denials (1.0.7) by @houseme in https://github.com/rustfs/rustfs/pull/9605\n* fix(ecstore): make release directory walks iterative by @houseme in https://github.com/rustfs/rustfs/pull/9608\n* fix(scanner): backport tier registry replan to 1.0.7 by @cxymds in https://github.com/rustfs/rustfs/pull/9616\n* fix(sts): backport inline session policy Id support to 1.0.7 by @GatewayJ in https://github.com/rustfs/rustfs/pull/9614\n* fix(kms,sse): backport KMS and SSE fixes to 1.0.7 by @reatang in https://github.com/rustfs/rustfs/pull/9613\n* fix(scanner): walk directories with an explicit stack by @cxymds in https://github.com/rustfs/rustfs/pull/9623\n* fix(replication): verify probe cleanup against target versions by @cxymds in https://github.com/rustfs/rustfs/pull/9624\n* fix(s3): restore 1.0.7 compatibility and batch delete correctness by @cxymds in https://github.com/rustfs/rustfs/pull/9622\n* fix(ecstore): backport bulk delete repair to 1.0.7 by @houseme in https://github.com/rustfs/rustfs/pull/9633\n* fix(ecstore): gate rebalance test fixtures on test-util by @houseme in https://github.com/rustfs/rustfs/pull/9634\n\n\n**Full Changelog**: https://github.com/rustfs/rustfs/compare/1.0.6...1.0.7\n",
   "reactions": {
     "url": "https://api.github.com/repos/rustfs/rustfs/releases/459112974/reactions",
-    "total_count": 6,
-    "+1": 2,
+    "total_count": 7,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 2,
